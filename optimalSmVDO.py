@@ -6,7 +6,7 @@ CONST_HOUSE_SIZE = 5 # Größe pro Haus
 class Race:
     # Rassenbonus SM-Kosten (z.B. 1.4 = +40%)
     smCost_percent = 0
-    # Rassenbonus SM-Kosten (z.B. 0.7 = -30%)
+    # Rassenbonus Haus-Kosten (z.B. 0.7 = -30%)
     houseCost_percent = 0
 
     # Konstruktor
